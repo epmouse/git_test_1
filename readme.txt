@@ -4,5 +4,5 @@ public  static void main(){
   add();
   get();
   set();
-  
+  trip();
 }
