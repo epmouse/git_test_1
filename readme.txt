@@ -3,5 +3,6 @@ public  static void main(){
   remove();
   add();
   get();
+  set();
   
 }
